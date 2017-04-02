@@ -1,0 +1,1 @@
+# 368_NMock_Ninject
